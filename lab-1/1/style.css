@@ -1,0 +1,24 @@
+body {
+    padding: 36px;
+    text-align: center;
+    background-color: aliceblue;
+    color: deeppink;
+    font-size: normal;
+
+}
+
+#count{
+    text-align: right;
+    font-size: xxx-large;
+    font-style: italic;
+    font-family: fantasy;
+}
+
+
+#inc {
+    margin-top: 10px;
+    color: whitesmoke;
+    background-blend-mode: color;
+    color-scheme: black;
+    background-color: black;
+}
